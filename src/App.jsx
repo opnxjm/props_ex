@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
 import "./style/Card.css";
-import Card from "./components/Card";
+// import Card from "./components/Card"; 
 import List from './components/List';
 import TypeMe from './components/TypeMe';
 import Myform from './components/MyForm';
